@@ -1,0 +1,3 @@
+Ivanov 25000
+Petrov 19000
+Vashington 18000
